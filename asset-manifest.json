@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Cricket-News-App/static/css/main.fc150aac.chunk.css",
+    "main.js": "/React-Cricket-News-App/static/js/main.3e12ee6a.chunk.js",
+    "main.js.map": "/React-Cricket-News-App/static/js/main.3e12ee6a.chunk.js.map",
+    "runtime-main.js": "/React-Cricket-News-App/static/js/runtime-main.de2763ef.js",
+    "runtime-main.js.map": "/React-Cricket-News-App/static/js/runtime-main.de2763ef.js.map",
+    "static/js/2.39d43e80.chunk.js": "/React-Cricket-News-App/static/js/2.39d43e80.chunk.js",
+    "static/js/2.39d43e80.chunk.js.map": "/React-Cricket-News-App/static/js/2.39d43e80.chunk.js.map",
+    "index.html": "/React-Cricket-News-App/index.html",
+    "precache-manifest.3bd21b7c5dbaa2d8b616a2cd655394e0.js": "/React-Cricket-News-App/precache-manifest.3bd21b7c5dbaa2d8b616a2cd655394e0.js",
+    "service-worker.js": "/React-Cricket-News-App/service-worker.js",
+    "static/css/main.fc150aac.chunk.css.map": "/React-Cricket-News-App/static/css/main.fc150aac.chunk.css.map",
+    "static/js/2.39d43e80.chunk.js.LICENSE.txt": "/React-Cricket-News-App/static/js/2.39d43e80.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Cricket-News-App/static/media/crickback.912ffd15.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de2763ef.js",
+    "static/js/2.39d43e80.chunk.js",
+    "static/css/main.fc150aac.chunk.css",
+    "static/js/main.3e12ee6a.chunk.js"
+  ]
+}
